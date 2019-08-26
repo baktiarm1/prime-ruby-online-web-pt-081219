@@ -2,7 +2,7 @@ require 'prime'
 
 def prime?(num)
   
-  if 
+  if prime?
   
   
 end
