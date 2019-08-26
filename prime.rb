@@ -2,7 +2,10 @@ require 'prime'
 
 def prime?(num)
   
-  if prime?
+  if prime?(num)
+    true 
+  else 
+    false
   
   
 end
